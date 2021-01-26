@@ -1,0 +1,9 @@
+-copie los archivos MiniCNC_inch.pp y MiniCNC_mm.pp
+-Ejecute el Programa de Aspire
+-en el menu Archivo, seleccione Abrir carpeta de datos de la aplicacion...
+-le abrira una ventana abra la carpeta PostP
+-pegar los archivos copiados en esa carpete
+-Cerrar la carpeta y cerrar el programa Aspire
+-Ejecute el Programa Aspire de nuevo y abra un archivo de corte
+-seleccione de lado derecho (Guardar trayectoria de Herramienta)
+-en la seccion de Postprocesador seleccione MiniCNC_xx
